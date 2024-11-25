@@ -2,6 +2,6 @@
 let min = 5;
 let max = 25;
 
-for ( let index = 0 ; index < 10 ; i ++ ) {
+for ( let index = min ; index < max ; i ++ ) {
     console . log ( index );
     }
