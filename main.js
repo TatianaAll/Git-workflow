@@ -5,3 +5,5 @@ let max = 25;
 for ( let index = min ; index < max ; i ++ ) {
     console . log ( index );
     }
+
+console.log('nouveau test');
